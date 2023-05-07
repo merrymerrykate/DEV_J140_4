@@ -1,0 +1,31 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 3 мая 2023 г., 22:08:02
+    Author     : kateromanova
+*/
+
+.table-view .table-column{
+    -fx-background-color: magenta;
+    -fx-text-fill: DimGray;
+    
+}
+.table-view .column-header .label{
+    -fx-background-color: LightGray;
+    -fx-text-fill: DimGray;
+}
+
+.root {
+    -fx-background-color: DimGray;
+}
+
+.button {
+    -fx-background-color: SeaShell;
+    -fx-text-fill: DimGray;
+     -fx-font-family: sans-serif;
+}
+.button:hover {
+    -fx-background-color: PapayaWhip;
+}
